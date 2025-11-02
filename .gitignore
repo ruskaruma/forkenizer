@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# Build directories
+build/
+
+# Test output files
+*_tokenized.txt
+*_tokenized_decoded.txt
+bhagavad_gita.txt
+bhagavad_gita_tokenized.txt
