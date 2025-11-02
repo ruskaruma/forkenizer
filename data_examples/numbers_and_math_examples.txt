@@ -1,0 +1,9 @@
+Simple arithmetic: 3 + 4 = 7
+Decimals: 3.14, 0.5, 123.456
+Negative numbers: -42, -3.14, +100
+Scientific: 1e10, 2.5e-5, -1.23e+4
+Exponents: x^2, y^3, z^10
+Inequalities: x <= y, z >= w, a != b
+Complex expressions: (a+b)*(c-d), x^2+y^2=z^2
+Code-like: variable_name, camelCase, module.function()
+

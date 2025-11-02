@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog.
+3 + 4 = 7
+Pi is approximately 3.14159.
+x^2 + y^2 = z^2
+Scientific notation: 1e-10 and 2.5e+5
+Numbers: 42, -123.45, 0.001
+Identifiers: camelCase, snake_case, module.name
+Math expressions: (a+b)*c, x<=y, z>=w, p!=q
+
