@@ -2,6 +2,8 @@
 
 Forkenizer is a focused C++20 tokenizer that converts text, numbers, and mathematical expressions into deterministic tokens. It supports byte-level BPE-style vocab, efficient longest-match trie encoding, deterministic decoding, and a small CLI for encode/decode/inspect. No image/audio handling. Minimal docs, production-minded, and built for integration with LLM systems.
 
+See [ARCHITECTURE.md](ARCHITECTURE.md) for architectural diagrams.
+
 ## Quick Start
 
 ```bash
