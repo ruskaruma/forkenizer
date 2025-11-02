@@ -48,3 +48,11 @@ build/
 *_tokenized_decoded.txt
 bhagavad_gita.txt
 bhagavad_gita_tokenized.txt
+
+# Generated model files (symlinks/copies)
+data_examples/vocab.json
+data_examples/merges.txt
+
+# Shell scripts (if temporary)
+build_and_test.sh
+tokenize_pdf.sh
